@@ -1,0 +1,28 @@
+{
+  "shirt": [
+    {
+      "src": "./mensImages/shirtBalck.jpg",
+      "itemname": "Basic Balck Shirt",
+      "desc": "Oversized half sleeve tshirt",
+      "price": "$32"
+    },
+    {
+      "src": "./mensImages/shirtEthical.jpg",
+      "itemname": "Printed Shirt",
+      "desc": "Ethical wear for traditional wears ",
+      "price": "$28"
+    },
+    {
+      "src": "./mensImages/shirtFloral.jpg",
+      "itemname": "Printed Shirt",
+      "desc": "balck shirt with white floral print",
+      "price": "$24"
+    },
+    {
+      "src": "./mensImages/shirtWhiteplain.jpg",
+      "itemname": "Baisc White Shite",
+      "desc": "Casual and office wear ",
+      "price": "$29"
+    }
+  ]
+}

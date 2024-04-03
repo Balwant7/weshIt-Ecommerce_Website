@@ -1,0 +1,34 @@
+body {
+  margin: 0%;
+  padding: 0px;
+}
+#heading_range h2 {
+  margin-top: 4rem;
+  margin-bottom: 6rem;
+}
+#rangepara {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#main_productDes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-right: 8rem;
+  margin-left: 2rem;
+  gap: 1rem;
+}
+#main_productDes i {
+  cursor: pointer;
+}
+#main_productDes i:hover {
+  color: red;
+}
+/* #main_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+} */

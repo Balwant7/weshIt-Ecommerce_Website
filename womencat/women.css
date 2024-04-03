@@ -1,0 +1,40 @@
+/* #top img {
+  height: 48rem;
+  width: 118.9rem;
+} */
+#wcato {
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  border-radius: 0px;
+  border: 0px solid black;
+}
+#top {
+  position: relative;
+}
+#top h2 {
+  position: absolute;
+  left: 10%;
+  top: 10%;
+  font-size: 5rem;
+
+  color: antiquewhite;
+}
+#top .card i {
+  position: absolute;
+  font-size: 2.5rem;
+  bottom: 20%;
+  right: 5%;
+  color: white;
+}
+@media screen and (max-width: 600px) {
+  #top h2 {
+    font-size: 1.5rem;
+  }
+}
+@media (min-width: 600px) and (max-width: 992px) {
+  #top h2 {
+    font-size: 3rem;
+  }
+}

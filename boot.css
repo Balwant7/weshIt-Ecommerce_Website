@@ -1,0 +1,56 @@
+body {
+  box-sizing: border-box;
+}
+#button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+/* #carousel-inner img {
+  z-index: -1;
+} */
+/* #carousel1 {
+  background-image: url("/images/mainsTop2.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#carousel2 {
+  background-image: url("/images/maintopimg5.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#carousel3 {
+  background-image: url("/images/maintopimg5.jpg");
+  background-position: center;
+  background-size: cover;
+} */
+.carousel-item img {
+  width: 100%;
+  height: 85vh;
+  /* background-position: center;
+  background-size: cover; */
+}
+#corsel img {
+  z-index: -11;
+}
+.card a img:hover {
+  transform: scale(1.05);
+  transition: 0.8s;
+}
+.card {
+  border: 0px;
+}
+.col a {
+  color: red;
+}
+.d-grid button:active {
+  scale: 0.95;
+}
+.d-grid button:active {
+  transition: all ease 0.2s;
+}
+.swiper-button-next:active,
+.swiper-button-prev:active {
+  color: grey;
+}
